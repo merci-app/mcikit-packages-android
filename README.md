@@ -1,5 +1,5 @@
 # mci-packages-android
-Esse é um repositório de código aberto desenvolvido pelo time da Merci que disponibiliza de algumas
+Esse é um repositório de código aberto desenvolvido pelo time da Merci que disponibiliza algumas
 soluções que irá ajudar desenvolvedores a acelerarem o seu processo de desenvolvimento
 
 ## Módulo mci-otpauth
