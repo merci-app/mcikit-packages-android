@@ -21,4 +21,9 @@ otp.handlerTimerRemaining {
 }
 ```
 
+Se quiser parar de ouvir os eventos:
+```kotlin
+otp.stopHandlerTimerRemaining()
+```
+
 [Merci @ 2020](https://merci.com.br)
