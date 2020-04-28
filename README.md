@@ -1,6 +1,6 @@
 # mci-packages-android
 Esse é um repositório de código aberto desenvolvido pelo time da Merci que disponibiliza de algumas
-soluções que irá ajudar outras empresas a acelerarem o seu processo de desenvolvimento
+soluções que irá ajudar desenvolvedores a acelerarem o seu processo de desenvolvimento
 
 ## Módulo mci-otpauth
 Esse módulo diponibiliza a solução de geração de token a partir de uma url de otp-auth. A seguir um exemplo
