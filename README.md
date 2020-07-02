@@ -28,8 +28,7 @@ otp.stopHandlerTimerRemaining()
 
 ## Módulo de compoente de ui QRImageView
 Esse módulo permite a exibição de um QRCode a partir de um códugo gerado. Para utilizar basta adicionar
-o QRCodeImageView no layout, e para atualizar o QRCode de acordo com o código gerado bastas da seguite
-forma:
+o QRCodeImageView no layout. Segue um exemplo de utilização
 
 Exemplo de utilização no Layout:
 
