@@ -1,3 +1,4 @@
+include ':ui-components:qr-imageview'
 rootProject.name='mcikit-packages-android'
 include ':app-sample'
 include ':mci-otpauth'
